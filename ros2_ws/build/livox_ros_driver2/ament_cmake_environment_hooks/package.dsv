@@ -1,4 +1,4 @@
-source;share/livox_ros_driver2/local_setup.bash
-source;share/livox_ros_driver2/local_setup.dsv
-source;share/livox_ros_driver2/local_setup.sh
-source;share/livox_ros_driver2/local_setup.zsh
+source;share/scanmatcher/local_setup.bash
+source;share/scanmatcher/local_setup.dsv
+source;share/scanmatcher/local_setup.sh
+source;share/scanmatcher/local_setup.zsh
