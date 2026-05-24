@@ -1,0 +1,2 @@
+source;share/my_octomap_tools/environment/ament_prefix_path.sh
+source;share/my_octomap_tools/environment/path.sh
